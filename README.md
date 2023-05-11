@@ -8,7 +8,7 @@
   <h2 align="center">Nitro-Sniper</h3>
 
   <p align="center">
-     The fastest nitro sniper on discord. Previously was sold but source code has recently been released to the public. 
+     The fastest nitro sniper on discord. Previously was sold but source code has recently been released to the public. Made by Tsukuyomi. All rights reserved.
     <br />
     <br />
     <a href="https://discord.gg/deluxe-services">Discord & Support Server</a>
